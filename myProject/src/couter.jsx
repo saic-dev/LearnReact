@@ -8,7 +8,7 @@ function Counter(){
     const decrement=()=>setCount(count-1);
     const reset=()=>setCount(0);
     return (
-        <div className="couter-container">
+        <div className="counter-container">
             <p className="count-display">{count}</p>
             <button className="counter-button" onClick={decrement}>Decrement</button>
             <button className="counter-button" onClick={increment}>Increment</button>

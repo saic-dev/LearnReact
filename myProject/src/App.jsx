@@ -9,10 +9,12 @@ import List from "./List.jsx"
 import  ProfilePic from "./ProfilePic.jsx"
 import MyComponent from "./myComponent.jsx"
 import Counter from "./couter.jsx"
+import ColorPicker from "./ColorPicker.jsx"
+import MyCar from "./myCar.jsx"
 function App() {
  
   return (
-    <MyComponent/>
+    <MyCar/>
   );
 }
 
