@@ -11,10 +11,12 @@ import MyComponent from "./myComponent.jsx"
 import Counter from "./couter.jsx"
 import ColorPicker from "./ColorPicker.jsx"
 import MyCar from "./myCar.jsx"
+import Array from "./Array.jsx"
+import Arrofobj from "./arrofobj.jsx"
 function App() {
  
   return (
-    <MyCar/>
+    <Arrofobj/>
   );
 }
 
